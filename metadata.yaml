@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25678
     wikipedia: http://en.wikipedia.org/wiki/Augustus_De_Morgan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39088#On-the-study-and-difficulties-of-mathematics
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2012-03-09'
 gutenberg_type: Text
